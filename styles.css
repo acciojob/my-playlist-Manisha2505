@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+ ul{
+    list-style-type: none;
+    }
+        .heading {
+        text-align: center;
+        }
+        .songsdiv{
+        border: solid 1px;
+		border-radius: 8px;
+        }
+        
