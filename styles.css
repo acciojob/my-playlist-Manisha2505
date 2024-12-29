@@ -1,4 +1,4 @@
-	body {
+body {
 	background-color: rgb(204, 204, 204);
 }
 ul{
@@ -13,6 +13,8 @@ ul{
 		border-radius: 8px;
         }
 #playerdiv{
+ margin: auto;
+  width: 60%;  
 background-color: white;
 	border: solid 1px;
 	border-radius: 8px;
