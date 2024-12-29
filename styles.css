@@ -1,4 +1,7 @@
- ul{
+body{
+	background-color: rgb(204, 204, 204);
+}
+ul{
     list-style-type: none;
     }
         .heading {
@@ -15,6 +18,17 @@
 	padding-right: 10px;
 }
 #audio{
-width: 100%;
+	background-color: rgb(255, 255, 255);
+	padding-left: 10px;
+	padding-right: 10px; 
+	border-radius: 8px;
+	width: 100%;
 }
+video{
+	background-color: rgb(255, 255, 255); 
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 8px;
+}
+
         
