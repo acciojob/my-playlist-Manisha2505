@@ -1,4 +1,4 @@
-body{
+	body {
 	background-color: rgb(204, 204, 204);
 }
 ul{
@@ -8,27 +8,25 @@ ul{
         text-align: center;
         }
         .songsdiv{
+        background-color: white;
         border: solid 1px;
 		border-radius: 8px;
         }
 #playerdiv{
-	border: solid;
+background-color: white;
+	border: solid 1px;
 	border-radius: 8px;
 	padding-left: 10px;
 	padding-right: 10px;
 }
-#audio{
+audio{
 	background-color: rgb(255, 255, 255);
-	padding-left: 10px;
-	padding-right: 10px; 
+	width: 100%; 
 	border-radius: 8px;
-	width: 100%;
+	
 }
 video{
 	background-color: rgb(255, 255, 255); 
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-top: 10px;
 	border-radius: 8px;
 }
-
-        
