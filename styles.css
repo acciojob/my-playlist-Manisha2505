@@ -8,11 +8,13 @@
         border: solid 1px;
 		border-radius: 8px;
         }
-.playerdiv{
+#playerdiv{
 	border: solid;
-	border-radius; 8px;
+	border-radius: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
-.audio{
+#audio{
 width: 100%;
 }
         
