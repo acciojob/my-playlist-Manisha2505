@@ -32,3 +32,6 @@ video{
 	padding-top: 10px;
 	border-radius: 8px;
 }
+a{
+	text-decoration-line: none;
+}
